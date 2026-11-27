@@ -3,18 +3,18 @@
     "identity-document.pdf": {
       "documentType": "ID",
       "fields": {
-        "fullName": "JORDAN ELLIS",
-        "dateOfBirth": "1988-04-12",
+        "fullName": "ERIKA MUSTERMANN",
+        "dateOfBirth": "1983-08-12",
         "idDocumentKind": "NATIONAL_ID",
-        "documentNumber": "X00000017",
-        "issuingCountry": "XX",
-        "expiryDate": "2031-06-30"
+        "documentNumber": "L01X00T47",
+        "issuingCountry": "DE",
+        "expiryDate": "2031-08-01"
       }
     },
     "pay-stub.pdf": {
       "documentType": "PAY_STUB",
       "fields": {
-        "employeeName": "JORDAN ELLIS",
+        "employeeName": "ERIKA MUSTERMANN",
         "employerName": "NORTHWIND LOGISTICS",
         "payPeriodStart": "2026-10-01",
         "payPeriodEnd": "2026-10-31",
@@ -27,7 +27,7 @@
     "bank-statement.pdf": {
       "documentType": "BANK_STATEMENT",
       "fields": {
-        "accountHolderName": "JORDAN ELLIS",
+        "accountHolderName": "ERIKA MUSTERMANN",
         "bankName": "Harbor Lane Bank",
         "statementPeriodStart": "2026-10-01",
         "statementPeriodEnd": "2026-10-31",
@@ -46,7 +46,7 @@
     "employment-letter.pdf": {
       "documentType": "EMPLOYMENT_LETTER",
       "fields": {
-        "employeeName": "JORDAN ELLIS",
+        "employeeName": "ERIKA MUSTERMANN",
         "employerName": "NORTHWIND LOGISTICS",
         "jobTitle": "Senior Logistics Planner",
         "employmentStartDate": "2021-03-15",
@@ -59,8 +59,8 @@
     "property-valuation.pdf": {
       "documentType": "PROPERTY_VALUATION",
       "fields": {
-        "propertyAddress": "12 Example Street, Northbridge NB1 2XY",
-        "propertyPostcode": "NB12XY",
+        "propertyAddress": "Musterweg 5, 50667 K\u00f6ln",
+        "propertyPostcode": "50667",
         "valuationDate": "2026-10-15",
         "marketValue": 320000,
         "currency": "EUR",
