@@ -10,6 +10,6 @@ Each folder holds one test case.
 
 | Folder | Content |
 |---|---|
-| `mortgage-application-idp/` | Mortgage Blueprint project: a BPMN diagram, the IDP classification template, five IDP unstructured extraction templates (identity document, pay stub, bank statement, employment letter, property valuation), the four forms, and a README |
+| `mortgage-application-idp/` | Mortgage Blueprint project: a BPMN diagram, the IDP classification template, five IDP unstructured extraction templates, two DMN decisions, four forms and the README, all in `mortgage-application-idp.zip`. Synthetic sample PDFs with expected values are in `sample-documents/` (not in the zip: Hub doesn't import PDFs) |
 
 To import several files at once, separate the encoded URLs in `source` with commas.
